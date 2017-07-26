@@ -1,2 +1,2 @@
 # Direct3D11-Practice
-Direct3D11 Practice with Tutorial etc VS2015 C++
+Direct3D11 Practice (Tutorial etc) with VS2015 C++
